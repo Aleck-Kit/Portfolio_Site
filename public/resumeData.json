@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Aleck Kitenge",
+    "occupation":"Aspiring Full Stack Web Developer",
+    "description":"I'm an Aspiring Full Stack Web Developer, and I design and develop experiences that make life simpler. Pour yourself some coffee, sit back and have a look around; I'm sure you'll find it worth your while...",
+    "image":"profilepic.jpg",
+    "bio":"I was Born in Bordeaux, Cultured by Congo, Nurtured by Nairobi, Galvanised by Gaborone,  Woken by Windhoek and sent off to face the world as a young adult by South Africa. As you've probably already guessed, that's a bunch of air miles. But if there's anything I've garnered from all of that travel, it is a profound appreciation of the power that simple communication between people can play in solving even the seemingly hardest problems in the world. And I look to do my part. One MERN stack line of code at a time.",
+    "contactmessage":"Kindly drop me an email and let's see about bringing life to your ideas.",
+    "email": "aleck.kit@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.aleckkitenge.com",
+    "resumedownload":"https://drive.google.com/file/d/1Kpq218TybXraGz1wd-P0UJ1VwlR4_7AW/view?usp=sharing",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://linkedin.com/in/aleck-kitenge-0941672b",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Aleck-Kit",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/kH6KarLIbcQU",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A snapshot of various skills I've amassed and continue to improve upon on my journey to becoming a Full Stack Web Developer  ",
+
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"Bootstrap 4&5",
+        "level":"70%"
+      },
+      {
+        "name":"JQuery",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"55%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"HabariJava!",
+        "category":"An online store dealing exclusively in African coffee. [HTML/CSS/Bootstrap4/JS]",
+        "image":"HabariJava!.jpg",
+        "url":"https://habarijava-african-coffee-hub-ecommerce.netlify.app"
+      },
+      {
+        "title":"RoboFriends React Project",
+        "category":"Friend Profile Search. [ReactJS]",
+        "image":"RoboFriends.png",
+        "url":"https://robofriends-react-project.netlify.app"
+      },
+      {
+        "title":"Maharaja Indian Restaurant",
+        "category":"Website I built for a local Indian restaurant [ReactJS]",
+        "image":"maharaja-site-screenshot.jpg",
+        "url":"https://maharaja-restaurant-project-react2021.netlify.app/#Welcome"
+      },
+      {
+        "title":"Resume Website",
+        "category":"My React-based web dev resume website [ReactJS]",
+        "image":"portfolio-website.jpg",
+        "url":"https://aleck-kitenge-resume-website.netlify.app"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I know Aleck very well on both a personal and professional level. He is a very friendly, honest and humorous gentleman that everyone wants to be around. He is professional, hardworking and often consulted at work where high-level decisions are being made. Aleck works absolutely well both with individuals and within a team structure",
+        "user":"Florence Onyango - Late Former Managing Director of Probe Market Intelligence  "
+      },
+      {
+        "text":"Aleck's contributions as Strategist were impressive and valuable. He demonstrated enthusiasm and creativity towards all the projects undertaken under his responsibility",
+        "user":"Vic Hanna - Former Group Chairman, Medcom Group of Companies"
+      }
+    ]
+  }
+}
