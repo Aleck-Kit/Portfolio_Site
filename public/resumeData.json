@@ -102,6 +102,18 @@
         "category":"My React-based web dev resume website [ReactJS]",
         "image":"portfolio-website.jpg",
         "url":"https://aleck-kitenge-resume-website.netlify.app"
+      },
+      {
+        "title":"My Online Resume",
+        "category":"Project to recreate my online resume  [ReactJS]",
+        "image":"myonlinereume.jpg",
+        "url":"https://my-online-resume.netlify.app/"
+      }, 
+      {
+        "title":"Shoe-La-La Ladies Footwear",
+        "category":"Online shoe store catering exclusively to women [ReactJS]",
+        "image":"shoe-la-la.jpg",
+        "url":"https://shoe-la-la-ecommerce-site.netlify.app/"
       }
       
     ]
