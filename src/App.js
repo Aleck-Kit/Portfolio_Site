@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faCheckSquare, faCoffee, faCode } from '@fortawesome/free-solid-svg-icons'
-
-library.add(fab, faCheckSquare, faCoffee, faCode)
-
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
@@ -15,6 +12,11 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+
+
+library.add(fab, faCheckSquare, faCoffee, faCode)
+
+
 
 class App extends Component {
 

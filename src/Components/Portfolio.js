@@ -8,13 +8,13 @@ class Portfolio extends Component {
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
-           <div className="item-wrap">
+            <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
-               <img alt={projects.title} src={projectImage} />
-               <div className="overlay">
+                <img alt={projects.title} src={projectImage} />
+                <div className="overlay">
                   <div className="portfolio-item-meta">
-                 <h5>{projects.title}</h5>
-                     <p>{projects.category}</p>
+                  <h5>{projects.title}</h5>
+                      <p>{projects.category}</p>
                   </div>
                 </div>
               <div className="link-icon"><i className="fa fa-link"></i></div>
@@ -29,14 +29,14 @@ class Portfolio extends Component {
 
       <div className="row">
 
-         <div className="twelve columns collapsed" >
+        <div className="twelve columns collapsed" >
 
-            <h1>Have a Browse Through Some of My Works</h1>
+          <h1>Have a Browse Through Some of My Works</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf" style={{ display: "flex", flexWrap: "wrap"}}>
-                {projects}
-            </div>
+          <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf" style={{ display: "flex", flexWrap: "wrap"}}>
+              {projects}
           </div>
+        </div>
       </div>
 
       
