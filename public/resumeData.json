@@ -113,6 +113,12 @@
                 "category": "Online shoe store catering exclusively to women [ReactJS]",
                 "image": "shoe-la-la.jpg",
                 "url": "https://shoe-la-la.netlify.app/"
+            },
+            {
+                "title": "React Calculator",
+                "category": "Calculator built with React [ReactJS]",
+                "image": "calculator.png",
+                "url": "https://react-calculator-task.netlify.app"
             }
         ]
     },
