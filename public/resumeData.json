@@ -1,10 +1,15 @@
 {
     "main": {
-        "name": "Aleck Kitenge",
+        "name": "Aleck",
         "occupation": "Aspiring Full Stack Web Developer",
         "description": "I'm an Aspiring Full Stack Web Developer, and I design and develop experiences that make life simpler. Pour yourself some coffee, sit back and have a look around; I'm sure you'll find it worth your while...",
         "image": "profilepic.jpg",
-        "bio": "I was Born in Bordeaux, Cultured by Congo, Nurtured by Nairobi, Galvanised by Gaborone,  Woken by Windhoek and sent off to face the world as a young adult by South Africa. As you've probably already guessed, that's a bunch of air miles. But if there's anything I've garnered from all of that travel, it is a profound appreciation of the power that simple communication between people can play in solving even the seemingly hardest problems in the world. And I look to do my part. One MERN stack line of code at a time.",
+        "bio": "I'm an Aspiring Full Stack Web Developer that made the life-changing decision to delve into the world of tech after more than a decade in advertising and a need to challenge my brain and broaden my horizons.
+        From my very first 'Hello World' to now designing, developing and maintaining web and mobile applications, nothing could have prepared me for the immense joy and personal growth I've derived from writing lines of code and creating magic.
+
+        With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I actively seek to add new technologies to my ever-expanding knowledge-base and stay up-to-date on industry trends and advancements.
+
+        I look forward to bringing that passion to a full-time role.",
         "contactmessage": "Kindly drop me an email and let's see about bringing life to your ideas.",
         "email": "aleck.kit@gmail.com",
         "phone": "555-555-5555",
