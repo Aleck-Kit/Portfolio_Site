@@ -15,9 +15,7 @@ function Resume() {
    const popover1 = (
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">HTML5</Popover.Title>
-    <Popover.Content>
-      Intermediate/Advanced
-    </Popover.Content>
+    
   </Popover>
 );
 
@@ -25,7 +23,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">CSS3</Popover.Title>
     <Popover.Content>
-      Intermediate/Advanced
+      Advanced
     </Popover.Content>
   </Popover>
 );
