@@ -15,7 +15,9 @@ function Resume() {
    const popover1 = (
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">HTML5</Popover.Title>
-    
+    <Popover.Content>
+      Advanced
+    </Popover.Content>
   </Popover>
 );
 
@@ -32,7 +34,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">GIT</Popover.Title>
     <Popover.Content>
-      Intermediate/Advanced
+      Advanced
     </Popover.Content>
   </Popover>
 );
@@ -41,7 +43,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">BOOTSTRAP4/5</Popover.Title>
     <Popover.Content>
-      Intermediate/Advanced
+      Advanced
     </Popover.Content>
   </Popover>
 );
@@ -50,7 +52,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">JAVASCRIPT</Popover.Title>
     <Popover.Content>
-      Intermediate/Advanced
+      Advanced
     </Popover.Content>
   </Popover>
 );
@@ -59,7 +61,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginLeft:"10px"}}>
     <Popover.Title as="h3">REACT</Popover.Title>
     <Popover.Content>
-      Intermediate
+      Advanced
     </Popover.Content>
   </Popover>
 );
@@ -68,7 +70,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginRight:"10px"}}>
     <Popover.Title as="h3">NODE JS</Popover.Title>
     <Popover.Content>
-      Beginning
+      Advanced
     </Popover.Content>
   </Popover>
 );
@@ -77,7 +79,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginRight:"10px"}}>
     <Popover.Title as="h3">EXPRESS JS</Popover.Title>
     <Popover.Content>
-      Beginning
+      Advanced
     </Popover.Content>
   </Popover>
 );
@@ -86,7 +88,7 @@ function Resume() {
   <Popover id="popover-contained" className="Popover" style={{marginRight:"10px"}}>
     <Popover.Title as="h3">MongoDB</Popover.Title>
     <Popover.Content>
-      Beginning
+      Advanced
     </Popover.Content>
   </Popover>
 );
