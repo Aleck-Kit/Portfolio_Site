@@ -107,6 +107,12 @@
                 "category": "Online shoe store catering exclusively to women [ReactJS]",
                 "image": "shoe-la-la.jpg",
                 "url": "https://shoe-la-la.netlify.app/"
+            },
+            {
+                "title": "The Smart-Aleck Blog",
+                "category": "Blog I'm building to document my coding journey [ReactJS]",
+                "image": "smartaleckblog.png",
+                "url": "https://reactjs-micro-blog.netlify.app"
             }
         ]
     },
