@@ -31,7 +31,7 @@ class Portfolio extends Component {
 
         <div className="twelve columns collapsed" >
 
-          <h1>Have a Browse Through Some of My Works</h1>
+          <h1>Take a Stroll Through Some of My Work</h1>
 
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf" style={{ display: "flex", flexWrap: "wrap"}}>
               {projects}
